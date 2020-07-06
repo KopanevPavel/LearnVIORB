@@ -34,8 +34,8 @@
 
 #include<mutex>
 
-#include "IMU/configparam.h"
-#include "IMU/g2otypes.h"
+#include "../include/configparam.h"
+#include "../include/g2otypes.h"
 #include "Thirdparty/g2o/g2o/core/optimization_algorithm_gauss_newton.h"
 #include "Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.h"
 #include "Thirdparty/g2o/g2o/solvers/linear_solver_cholmod.h"

@@ -1,4 +1,4 @@
-#include "NavState.h"
+#include "../../include/NavState.h"
 
 namespace ORB_SLAM2
 {

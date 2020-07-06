@@ -38,7 +38,6 @@ include_directories(
 ${PROJECT_SOURCE_DIR}
 ${PROJECT_SOURCE_DIR}/../../../
 ${PROJECT_SOURCE_DIR}/../../../include
-${PROJECT_SOURCE_DIR}/../../../src/IMU
 ${Pangolin_INCLUDE_DIRS}
 )
 

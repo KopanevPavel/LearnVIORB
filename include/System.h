@@ -36,7 +36,7 @@
 #include "ORBVocabulary.h"
 #include "Viewer.h"
 
-#include "IMU/imudata.h"
+#include "../IMU/imudata.h"
 
 namespace ORB_SLAM2
 {

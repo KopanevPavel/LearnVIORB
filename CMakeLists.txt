@@ -70,19 +70,19 @@ include/KeyFrame.h
 include/Tracking.h
 include/LocalMapping.h
 
-src/IMU/configparam.h
+        include/configparam.h
 src/IMU/configparam.cpp
 
-src/IMU/imudata.h
+        include/imudata.h
 src/IMU/imudata.cpp
-src/IMU/IMUPreintegrator.h
+        include/IMUPreintegrator.h
 src/IMU/IMUPreintegrator.cpp
 src/IMU/so3.cpp
-src/IMU/so3.h
-src/IMU/NavState.h
+        include/so3.h
+        include/NavState.h
 src/IMU/NavState.cpp
 
-src/IMU/g2otypes.h
+        include/g2otypes.h
 src/IMU/g2otypes.cpp
 )
 

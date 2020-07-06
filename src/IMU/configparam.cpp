@@ -1,4 +1,4 @@
-#include "configparam.h"
+#include "../../include/configparam.h"
 
 namespace ORB_SLAM2
 {

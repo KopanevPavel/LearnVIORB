@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c79cde66-139a-463b-854c-9d05a4da7290" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/System.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/System.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/IMUPreintegrator.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/IMUPreintegrator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/NavState.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/IMU/NavState.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/NavState.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/NavState.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/configparam.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/IMU/configparam.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/configparam.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/configparam.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/g2otypes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/IMU/g2otypes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/g2otypes.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/g2otypes.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/imudata.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/IMU/imudata.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/imudata.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/imudata.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/so3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/IMU/so3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMU/so3.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/so3.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Optimizer.cc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Optimizer.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System.cc" beforeDir="false" afterPath="$PROJECT_DIR$/src/System.cc" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eJdsRFEIMF3NOo5wX9xPNyZKLI" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c79cde66-139a-463b-854c-9d05a4da7290" name="Default Changelist" comment="" />
+      <created>1594043835484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594043835484</updated>
+      <workItem from="1594043837528" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
