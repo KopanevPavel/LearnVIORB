@@ -51,8 +51,6 @@ ${PROJECT_SOURCE_DIR}/../../../lib/libORB_SLAM2.so
 -lboost_system
 )
 
--lboost_system
-
 # Node for monocular camera
 rosbuild_add_executable(Mono
 src/ros_mono.cc
