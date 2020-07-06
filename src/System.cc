@@ -27,7 +27,7 @@
 #include <iomanip>
 #include <time.h>
 
-#include "../include/configparam.h"
+#include "../include/IMU/configparam.h"
 
 
 bool has_suffix(const std::string &str, const std::string &suffix) {

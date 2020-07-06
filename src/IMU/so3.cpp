@@ -21,7 +21,7 @@
 // IN THE SOFTWARE.
 
 #include <iostream>
-#include "../../include/so3.h"
+#include "../../include/IMU/so3.h"
 
 //ToDo: Think completely through when to normalize Quaternion
 

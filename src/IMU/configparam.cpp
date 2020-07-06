@@ -1,4 +1,4 @@
-#include "../../include/configparam.h"
+#include "../../include/IMU/configparam.h"
 
 namespace ORB_SLAM2
 {
