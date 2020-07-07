@@ -33,8 +33,8 @@
 
 #include "MsgSync/MsgSynchronizer.h"
 
-#include "../../../src/IMU/imudata.h"
-#include "../../../src/IMU/configparam.h"
+#include "../../../include/IMU/imudata.h"
+#include "../../../include/IMU/configparam.h"
 #include <rosbag/bag.h>
 #include <rosbag/view.h>
 
