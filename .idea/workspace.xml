@@ -48,6 +48,16 @@
       </list>
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -60,8 +70,16 @@
       <updated>1594043835484</updated>
       <workItem from="1594043837528" duration="1125000" />
       <workItem from="1594054752921" duration="59000" />
-      <workItem from="1594130625015" duration="124000" />
+      <workItem from="1594130625015" duration="887000" />
     </task>
+    <task id="LOCAL-00001" summary="Slight fix">
+      <created>1594130795296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594130795296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Slight fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Slight fix" />
   </component>
 </project>
