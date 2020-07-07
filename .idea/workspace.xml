@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c79cde66-139a-463b-854c-9d05a4da7290" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/ROS/ORB_SLAM2/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
       <updated>1594043835484</updated>
       <workItem from="1594043837528" duration="1125000" />
       <workItem from="1594054752921" duration="59000" />
+      <workItem from="1594130625015" duration="124000" />
     </task>
     <servers />
   </component>
